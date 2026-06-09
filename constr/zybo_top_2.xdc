@@ -1,4 +1,4 @@
-## zybo_top.xdc  (v2)
+## zybo_top.xdc (v2)
 ## Constraints for zybo_top.v on Zybo Z7-10 (xc7z010clg400-1)
 ## Pin names from the official Digilent Zybo-Z7-Master.xdc.
 
